@@ -1,0 +1,100 @@
+1,Plaćanje robe/usluge unapred je:,Avans,Dodatna vrednost,Inflacija,Kamata,Bonitet
+2,Podaci koji predstavljaju primenu određenih matematičkih relacija (npr prosečne ocene studenta) su:,Agregirani podaci,Modeli,Merdžer,Obrada podataka,Proučavanje rada
+3,Preuzimanje/kupovina većinskih akcija ili celog preduzeća od strane drugog preduzeća je:,Akvizicija,Investicija,Kooperacija,Obveznica,Monopol
+4,Postupak posredstvom koga nadležno telo zvanično priznaje da su telo ili osoba kompetentni za sprovođenje određenih poslova,Akreditacija,Sertifikacija,Vizija,Menadžment,Pregovaranje
+5,Vlasnička hartija od vrednosti kojom kupac stiče vlasništvo nad delom kapitala akcionarskog društva i koja akcionarima daje pravo na deo dobiti (dividendu) preduzeća i druga prava je:,Akcija,Ortakluk,Resursi,Ugovor,Faktura
+6,Vlasnik jedne ili više akcija u akcionarskom društvu:,Akcionar,Broker,Diler,Investitor,Preduzetnik
+7,Društvo gde članovi formiraju svoj kapital u vidu akcija radi obavljanja određene delatnosti je:,Akcionarsko drustvo,Holding,Globalna strateska alijansa,Preduzeće,Osiguravajuće drustvo
+8,Usko fokusirano sredstvo jasno definisane primene koje se može koristiti samostalno je:,Alat,Alati modeliranja,Alati za optimizaciju,Programski jezik,Antivirus program
+9,Softverski programi koji pomazu analitičarima/korisnicima da projektuju i izrade adekvatne formalne modele su:,Alati modeliranja,Kompajleri,Modulatori,Operativni sistem,Racunarska mreza
+10,"Propisani skup pravila ili instrukcija, koji se izvršavaju u precizno definisanom redosledu, za rešavanje nekog problema je:",Algoritam,Algoritam zakljucivanja,Proces,Softver,Misija
+11,Adekvatno iskorišavanje podataka iz baze znanja radi predloga adekvatne poslovne odluke je:,Algoritam zakljucivanja,Analiticka obrada,Analiza poslovanja,Efikasnost,Informacioni sistem
+12,Proces raspodele resursa ili troškova na organizacione celine/funkcije organizacije (celine) je:,Alokacija resursa,Distribucija,Dividenda,Nabavka,Likvidnost
+13,Otpisivanje dela vrednosti osnovnih sredstava (smanjenje vrednosti) koje se deli na vremenski i funkcionalni sistem je:,Amortizacija,Investicija,Korektivna mera,Kredit,Porez
+14,"Način za dobijanje potpune i što tačnije slike poslovanja koji obuhvata razmatranje problema i mogućnosti, uzročno posledičnih veza i identifikovanje mogućih resenja je:",Analiza poslovanja,Bencmarking,Brejnstorming,Deskriptivni model,Menadžment znanja
+15,Proces upravljanja visedimenzionalnim podacima iz različitih izvora koji su najčešće iz različitih funkcija menadžmenta i zajedno postaju dobra osnova za odlučivanje je:,Analiticka obrada,Deterministički model,Obrada podataka,Pracenje i kontrola projekta,Revizija
+16,"Redovna, godišnja ili polugodišnja isplata novca sastavljena od dela glavnice i dela kamate koju dužnik plaća kod postepene otplate dugoročnog kredita. Može biti fiksni i promenljivi kad se iznos menja, povećava ili smanjuje je:",Anuitet,Kredit,Kamatna stopa,Dividenda,Kapital
+17,"Program za izvršavanje specijalizovanog zadatka za korisnike. Mogu biti za obradu teksta (Word), tabela (Excel), baza podataka (Access) je:",Aplikativni softver,Programski jezik,Operativni sistem,Asembler,Kompajler
+18,"Odsustvovanje sa posla iz opravdanih ili neopravdanih razloga, dobrovoljno ili ne je:",Apsentizam,Kontrola,Korektivna mera,Motivacija,Optimizacija
+19,Proces u kome se izdvajaju važni aspekti nekog fenomena a ignorišu se njegovi detalji je:,Apstrakcija,Znanje,Evaluacija,Procena,Koordinacija
+20,Program za prevođenje naredbi asemblerskog jezika u naredbe mašinskog jezika kako bi se program izvršio na računaru je:,Asembler,Kompajler,Centralni procesor,Sistemski softver,Modulatori
+21,"Grupa ljudi ili organizacija koje imaju zajednički interes i želju da budu udruženi formalno ili neformalno, visoko organizovano ili sa slobodnim, sporazumnim načinom funkcionisanja i uspostavljanja je:",Asocijacija,Organizacija,Preduzeće,Kompanija,Nevladina organizacija
+22,"Pravo ličnosti, menadžera ili neke druge rukovodeće funkcije, da koristi dodeljenu moć za sprovođenje svojih uloga u organizaciji se naziva:",Autoritet,Moc,Lanac komande,Struktuirana odluka,Heuristika
+23,"Skup činjenica, pravila i procedura kao relevantnih informacija vezanih za specifično polje interesa za koje je razvijen ekspertni sistem je:",Baza znanja,Baza modela,Znanje,Informacioni sistem,Ekspertni sistem
+24,Osnova svakog poslovnog sistema za podršku odlučivanju koji sadrzi implementirane formalne modele koji opisuju realne procese za određenu oblast je:,Baza modela,Baza znanja,Model,Modem,Organizacioni sistem
+25,Najmanja grupa bitova koja se može adresirati na računaru koja sadrži 8 bitova zove se:,Bajt,Kilobajt,Megabajt,Gigabajt,Terabajt
+26,"Finansijska institucija koja prikuplja depozite, odobrava kredite i posreduje u plaćanju i postoji više vrsta (centralna, univerzalna, komercijalna, investiciona, hipotekarne itd..) zove se:",Banka,Osiguravajuće kompanije,Investiciona kuca,Brokerska kuca,Kreditne unije
+27,"Merenje sopstvenog učinka poredenjem sa najboljima u toj oblasti, tj. potraga za najboljom praksom koja vodi do superiornog učinka zove se:",Bencmarking,Menadžment znanja,Ekspertni sistem,Optimizacija,Proučavanje rada
+28,"Regulisano i organizovano trziste na kome se trguje standardizovanim finansijskim instrumentima i robom (akcijama, obveznicama, derivatima itd.) zove se:",Berza,Brokerska kuca,Aukcijska kuca,Trziste,Menjačnica
+29,Formalni planski dokument koji se fokusira na buduci poslovni poduhvat i razraduje sve elemente neophodne za sprovođenje zove se:,Biznis plan,Projekat,Vizija,Misija,Predstava
+30,Jedan od osnovnih metoda i instrumenata kompleksne analize poslovanja preduzeća. U njemu se daje detaljan i jasan prikaz imovinske i poslovne situacije preduzeća iz dve perspektive (aktive i pasive preduzeća i prihoda i rashoda) i zove se:,Bilans,Bilans stanja,Dobitak,Kapital,Knjigovodstvo
+31,Jedan od tri osnovna finansijska izveštaja preduzeća zajedno sa bilansom uspeha i bilansom novčanog toka. Ima veličinu i strukturu sredstava (aktiva) kojima preduzeće raspolaže i ima dve strane - levu (aktivu tj imovinu) i desnu (pasivu tj izvore sredstava) koje moraju biti jednake,Bilans stanja,Bilans,Investicija,Troškovi,Bilans
+32,Poslovna situacija preduzeća tj svi prihodi i rashodi preduzeća u određenom vremenskom periodu i ostvareni finansijski rezultat,Bilans uspeha,Bilans stanja,Bilans,Finansije,Obrtna sredstva
+33,Numerički sistem koji reprezentuje brojne vrednosti u 0 i 1,Binarni brojni sistem,Decimalni brojni sistem,Arapski brojni sistem,Rimski brojni sistem,Heksadecimalni brojni sistem
+34,Organizacija sa jasno def. hijerarhijskom strukturom koja primenjuje autoritativni stil menadžmenta i visoko specijalizovane uloge njenih članova sa velikim naglaskom na pravila i procedure,Birokratija,Demokratija,Autokratija,Plutokratija,Demografija
+35,Binarna cifra koja može imati 0 i 1,Bit,Binarni broj,Heksadecimalni broj,Dekadni broj,Megabajt
+36,Web strana vezana za neku temu koja se sastoji od kratkih poruka uređene hronološki,Blog,Website,Page,Vlog,Wiki
+37,Kvalifikacija pojedinca ili preduzeća u pogledu sposobnosti da pozajmljuje i redovno izmiruju svoje obaveze,Bonitet,Solventnost,Budžet,Menica,Finansiranje
+38,Metoda grupnog odlučivanja koja se sastoji iz 6 koraka,Brejnstorming,Benčmarking,Evaluacija,Budžet,Deviza
+39,Posrednik između kupaca i prodavca u trgovini hartijama od vrednosti na finansijskom tržištu,Broker,Diler,Klijent,Lider,Investitor
+40,Vrednost ukupnih poslovnih aktivnosti jedne zemlje ostvarene najčešće u jednoj poslovnoj godini,Bruto društveni prihod,Valuta,Dividenda,Investicija,Porez
+41,Formalna procena budućih prihoda/rashoda/novčanog toka koja čini preliminarni finansijski plan,Budžet,BDP,Bonitet,Državni budžet,Nabavka
+42,Novćana jedinica zemlje ili grupe zemalja tj sredstvo plaćanja u toj zemlji,Valuta,BDP,Nabavka,Investicija,Finansijski izveštaj
+43,Naučna disciplina koja pokušava da u računar ugradi elemente čovekove inteligencije,Veštačka inteligencija,Računar,FTP protokol,Operativni sistem,Program
+44,Dvosmerna komunikacija u realnom vremenu za simultanu interakciju između učesnika uključujući glasovne pozive i video razgovore,Video konferencija,Konferencija,Informacioni sistem,Kooperacija,Konferencija za novinare
+45,Dugoročna predstava o tome šta preduzeće treba da bude/postane/ostvari u budućnosti i prestava o delatnosti kojom se preduzeće bavi,Vizija,Predstava,Biznis plan,Cilj,Misija
+46,Mreža nezavisnih institucija/preduzeća/institucija koji se upotrebom IT tehnologije ujedinjuju i koriste svoje prednosti. Prednost ovakvog povezivanja je fleksibilnost,Virtuelna organizacija,Organizacija,Video konferencija,Saopštenje za javnost,Konferencija za novinare
+47,Menadžeri na najvišem nivou u organizaciji i odgovnori za odluke koje se odnose na celu org,Vrhovni menadžment,Menadžment srednjeg nivoa,Menadžment niskog nivoa,Menadžment,Menadžment operativnog nivoa
+48,Proces na globalnoj osnovi utiče na velike poslovne sisteme/org strukturu/mogućnosti i sve drugo. Cilj je razvoj globalnih tržišta,Globalizacija,Lokalizacija,Merdžer,Oglašavanje,Merčendajzing
+49,Povezivanje između dva ili više preduzeća u globalnim okvirima radi ostvarivanja višestrukih koristi,Globalne strateške alijanse,Alijanse,Ortačka društva,Merdžer,Multinacionalna Kompanija
+50,Računarski sistem koji omogućava rešavanje nestruktuiranih problema od strane grupe donosilaca odluka koji rade kao grupa. Pomaže grupama u analiziranju problematičnih situacija i izvršavanju zadataka grupe donosilaca odluka,Grupni sistem za podršku odlučivanju (GSPO),Program,Benčmarking,Veštačka inteligencija,Brejnstorming
+51,Troškovi poslovanja veći od ostvarenog prihoda,Gubitak,Troškovi,Potrošnja,Monopol,Ponuda
+52,Sistem koji čine direktorijumi (folderi) i datoteke koje se nalaze na sekundarnoj memoriji. Direktorijum čini više datoteka i direktorijuma,Datotečni sistem,FTP protokol,Windows operativni sistem,Linux,Wiki
+53,Kratkoročno potraživanje u inostranstvu u bilo kom osnovu i bilo kojoj valuti,Deviza,Dividenda,Devizni kurs,Obveznica,Evaluacija
+54,Cena valute jedne zemlje izražena u valuti druge zemlje. Deli se na fiksni i slobodni/fluktuirajući (kad se formira na tržištu na osnovu ponude i potražnje),Devizni kurs,Deviza,Dividenda,Menjačnica,Berza
+55,Logički proces deljenja početnog problema na manje delove koji se potom nezavisno rešavaju,Dekompozicija,Benčmarking,Konzorcijum,Matematički model,Održivi razvoj
+56,Prenošenje poslova na niže niove organizacione strukture ili druge članove org. kako bi se efikasno ostvarili rezultati,Delegiranje,Dekompozicija,Lanac komande,Merdžer,Autoritet
+57,Obaveza banke nastale deponovanjem novčanih sredstava pojedinaca ili institucija na osnovu ugovora ili zakonske obaveze deponovanja,Depozit,Dobita,Dividenda,Heuristika,Investicija
+58,Model koji opisuje situacije onakve kakve se prikazuju u stvarnosti i koji treba da bude verna slika realnog stanja sistema,Deskriptivni model,Matematički model,Model,Deterministički model,Modem
+59,Model koji opisuje situacije u određenim vremenskim situacijama tj da su poznata sva moguća nastupanja sistema kao i strategije odigravanja,Deterministički model,Deskriptivni model,Model,Matematički model,Modem
+60,Širenje raspona aktivnosti ili proizvodnog programa uvođenjem novih proizvoda/proizvodnih procesa u organizaciju,Diverzifikacija,Dividenda,Delegiranje,Alokacija resursa,Merčendajzing
+61,Deo dobiti koju ostvari akcionarsko društvo a koja se deli akcionarima tj udeo deoničara u dobitku firme na kraju vrem. perioda. Ako je rezultat pozitivan vlasnici preduzeća mogu odlučiti da podele dividendu prema broju akcija,Dividenda,Kamata,Dobitak,BDP,Akcija
+62,Trgovac hartija od vrednosti. Može nastupati u svoje ime ali i kao brokeri. Oni kupuju hartije u svoje ime a onda preprodaju klijentima,Diler,Broker,Akcionar,Aukcioner,Investitor
+63,Investiranje kapitala strane firme na teritoriji druge druge zemlje. Jedan od osnovnih mehanizama globalizacije svetske privrede,Direktne strane investicije,Nevladine organizacije,Marketing,Investicija,Kredit
+64,Pozitivna razlika između prihoda i troškova poslovanja,Dobitak,Kamata,Utrošak,Dividenda,Depozit
+65,Osnova za obračun poreza na dodatnu vrednost je,Dodatna vrednost,Dividenda,Inflacija,Porez,Utrošci
+66,Predračun kojim se određuju izvori i obim finansiranja potreba javne uprave i soc. davanja države građanima. Izvor prihoda su porezi takse i carine,Državni budžet,Budžet,Kapital,Studija izvodljivosti,Strateško planiranje
+67,Posvećenost preduzeća etičkim principima i doprinošenju ekonomskom razvoju,Društvena odgovornost preduzeća,Ekološka svest,Odnosi sa javnošću,Menadžment,Korporativna društvena odgovornost
+68,Željeno stanje ili ishod kome se teži dostići (pojedinac;grupa ili org) između 5 i 10 godina,Dugoročni cilj,Srednjeročni cilj,Vizija,Misija,Heuristika
+69,Objektivna ocena projekta ili poslovnog poduhvata koji je u toku ili je završen,Evaluacija,Vizija,Benčmarking,Kontrola,Optimizacija
+70,Uravljanje organizovanim ljudskim aktivnostima usmerenim razvijanju implementiranju i održavanju politike zaštite životne sredine,Ekološki menadžment,Efektivnost,Misija,Odnosi s javnošću,Politički menadžment
+71,Produktivnost ekonomičnost i rentabilnost su,Ekonomski principi poslovanja,Ekspertni sistem,Merdžer,Organizaciona šema,Poslovni protokol
+72,Popularisanje posebnih marketinških napora i akcija u cilju osvajanja tržišta je,Ekonomski publicitet,Ekonomski principi poslovanja,Marketing,Odnosi s javnošću,Elektronsko poslovanje
+73,Zastarenje opreme i povlačenje sredstava kojima vek trajanja nije istekao,Ekonomsko zastarevanje sredstava za rad,Entropija,Konkurencija,Osnovna sredstva,Standardizacija
+74,Programski sistem kako bi zamenio čoveka eksperta iz određene oblasti i sastoji se od znanja i razumevanja problema o određenoj oblasti,Ekspretni sistem,Veštačka inteligencija,Program,Operativni sistem,Programski jezik
+75,Sistem za slanje poruka (pisama) preko računarske pošte. Najpoznatiji protokol je SMTP (Simple Mail Transfter Protocol),Elektronska pošta,FTP protokol,Kurirska pošta,Post Express,MS Access
+76,Težnja sistema da pređe iz uređenog u neuređeno stanje,Entropija,Heuristika,Evaluacija,Informacija,Planiranje
+77,Kvalitativna mera napretka (sposobnost da se ulaganja svedu na najmanju moguću meru),Efekat,Efektivnost,Efikasnost,Ekonomski publicitet,Marketing
+78,Mera realizacije planiranih aktivnosti i planiranih rezultata,Efektivnost,Efekat,Efikasnost,Ekonomski publicitet,Marketing
+79,Odnos ostvarenih rezultata i upotrebljenih resursa. Jedan od osnovnih ekonomskih principa poslovanja koji se dobije ispitivanjem odnosa učinaka i troškova,Efikasnost,Efekat,Efektivnost,Ekonomski publicitet,Kupovna moć
+80,Međusobno povezane faze sistema proizvoda; ciklus od nabavke proizvoda do odlaganja na otpad,Životni ciklus proizvoda,Zaliha,Modem,Proces,Sistem
+81,Element/resurs uskladišten do trenutka korišćenja ili isporuke. U proizvodnji je zaliha sirovina/materijala/delova za ugradnju/rezervni deo a u uslužnim delatnostima se odnosi na robu namenjenu prodaji,Zaliha,Dobitak,Utrošak,Obveznica,hipotekarne
+82,Program koji koristimo za kontrolu ovlašćenog i za zaštite od neovlašćenog pristupa računaru. Lokalna mreža se smatra bezbednom a Internet nebezbodnom zonom,Zaštitni zid,FTP protokol,Operativni sistem,Linux,Cyber kriminal
+83,Ukazuje šta neko zna/razume ili razume određeni proces. Deli se na struktuirano/nestruktuirano/eksplicitno i podrazumevano. Sačuvano u računaru se zove eksplicitino,Znanje,Informacija,Heuristika,Entropija,Model
+84,Osoba koja ulaže sredstva uz odgovarajući prinos. Učesnik koji se na tržištu nalaze na strani ponude novčanih sredstava i kapitala. Imaju višak sredstava koji su spremni da ustupe uz odgovarajući prinos. Mogu se javljati kao pojedinci/preduzeća/država i države agencije...,Investitor,Akcionar,Akcionarsko društvo,Broker,Diler
+85,Ulaganje kapitala u određeni poslovni poduhvat od koga se očekuje da će doneti određeni rezultat u budućnosti,Investicija,Investitor,Akcija,Dividenda,Investicioni projekat
+86,Opšti naziv za sve projekte kojima se realizuju investicioni poduhvati,Investicioni projekat,Investicija,Inovacija,Dobitak,Vizija
+87,Disciplina koja se bavi razvojem/projektovanjem/implementacijom/analizom i evaluacijom socio-tehničkih sistema i njihovih resursa,Industrijsko inženjerstvo,Industrijski menadžment,Menadžment,Inženjerstvo,Linearno programiranje
+88,Uspešno primenjena nova ideja kojom preduzeće stiče kompetitivnu prednost na tržištu. Može se odnositi na razvoj novih i usavršavanje postojećih proizvoda/usluga,Inovacija,Istraživanje i razvoj,Diverzifikacija,Proučavanje rada,Produktivnost
+89,Skup povezanih računarskih mreža koje komuniciraju zajedničkim protokolima,Internet,Internet stvari,Internet forum,FTP protokol,Website
+90,Web strana koja pokriva jedan skup tema koje su grupisane po kategorijama,Internet forum,Internet,Website,Wiki,Informacioni sistem
+91,Svetsko udruženje nacionalnih tela za standardizaciju koje okuplja 130+ članova. Promoviše razvoj standardizacije s namerom da se olakša međunarodna razmena roba i usluga kao i razvijanje saradnje u svim sferama,ISO,R&D,IoT,CPU,CMS
+92,Međusobno povezani i zajednički usmereni procesi od strateškog značaja za preduzeće koji obuhvataju skup kreativnih poslova u toku kojih se analizira/proučava i unapređuje ukupni proces poslovanja,R&D,IoT,CPU,CMS,ISO
+93,Preduzeće koje osniva država/grad/opština/okrug za delatnosti poput PTT/komunalne usluge/železnicu... Uticaj na poslovanje preduzeća državni organi obezbeđuju pravom izbora upravnog odbora i poslovodnih organa,Javno preduzeće,Ortačko društvo,Akcionarsko društvo,Projekat,Virtuelna organizacija
+94,Naknada koja se plaća za upotrebu novca ili kapitala. Izražava se kroz kamatnu stopu za određeni vremenski period (najčešće godinu dana). Dobija se kada se kamatna stopa pomnoži sa pozajmljenom novčanom sumom. Za kreditora dobitak a dužnika gubitak,Kamata,Bonitet,Solventnost,Likvidnost,Kredit
+95,Sa radom i zemljom čini osnovni faktor proizvodnje. Može se posmatrati kao finansijski kapital i tad predstavlja ukupna novčana sredstva raspoloživa za investiranje i obuhvata sva proizvodna sredstva za proizvodnju roba i usluga. On predstavlja izvor sredstava i nalazi se u pasivi bilansa stanja,Kapital,Kamata,Bonitet,Osnovna sredstva,Dividenda
+96,Trajna dobra u smislu trajanja na dugi rok. Npr oprema koja se koristi kao ulaz u proizvodnji drugih proizvoda a ne prodaje se direktno,Kapitalna dobra,Osnovna sredstva,Obrtna sredstva,Ponuda,Monopol
+97,Nivo do kog skup karakteristika ispunjava zahteve. Taj termin se može koristiti sa pridevima poput nedovoljan/dobar/izvrstan,Kvalitet,Inovacija,Ekspertni sistem,Optimizacija,Lizing
+98,U računarstvu klijent predstavlja objekat uglavnom računar ili softver koji pristupa usluzi tj servisu koji pruža server,Klijent-server,FTP protokol,Server,Host server,Računar
+99,Deo računovodstva koji se bavi prikupljanjem/evidentiranjem/sređivanjem/obrađivanjem i kontiranjem svih poslovnih procesa koji se izražavaju u novcu,Knjigovodstvo,Akcija,Bankarstvo,Brokerstvo,Finansijski menadžment
+100,Program ili skup programa za prevođenje naredbi izvornog jezika (source language) u naredbe drugog tj ciljnog jezika (target language),Kompajler,Računarska mreža,Programski jezik,Operativni sistem,Računarstvo u oblaku
